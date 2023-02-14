@@ -52,3 +52,4 @@ fbq('track', 'Subscribe', {value: '0.00', currency: 'USD', predicted_ltv: '0.00'
 View content	A visit to a web page you care about. For example, a product or landing page. View content tells you if someone visits a web page's URL, but not what they do or see on that web page.	
 fbq('track', 'ViewContent');
 
+https://www.facebook.com/business/help/402791146561655?id=1205376682832142
